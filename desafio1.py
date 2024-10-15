@@ -1,5 +1,5 @@
 nome = "Matheus"
-xp = 1001
+xp = 5001
 nivel = ""
 
 if xp <= 1000:
